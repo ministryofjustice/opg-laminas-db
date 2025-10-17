@@ -1,0 +1,1 @@
+As this is a fork of laminas/laminas-db, the include CI workflows are disabled. If making a change to this repository, you should re-implement pipeline testing before merging any new code.
